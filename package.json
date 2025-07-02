@@ -42,7 +42,7 @@
     }
   },
   "dependencies": {
-    "ethers": "5.7.2"
+    "ethers": "6.15.0"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "2.2.3",
